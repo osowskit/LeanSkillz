@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skillz_display">Game Began!</string>
+    <string name="app_name">Shimsham</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Bananas</string>
+    <string name="api_button">Fetch Results</string>
+    <string name="api_button_2">Launch Skillz</string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="ad_unit_id">/6253334/dfp_example_ad</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Press Me!</string>
+    <string name="dummy_content">TUMMY\nTime</string>
+    <string name="title_activity_display_me">Display me</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="untappd_token">/?access_token=A9E66BF8029AE613DC18D34E9E7EAB442E9446B2</string>
+    <string name="untappd_url">https://api.untappd.com/v4/venue/checkins/</string>
+    <string name="title_activity_skillz">SkillzActivity</string>
+</resources>
